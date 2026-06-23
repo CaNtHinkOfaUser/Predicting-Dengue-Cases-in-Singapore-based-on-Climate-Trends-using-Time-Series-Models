@@ -6,6 +6,8 @@ This project investigates the relationship between climate conditions and dengue
 
 The study combines historical dengue case counts with weather variables, including rainfall, temperature, and wind speed, to assess whether environmental factors can be used to forecast dengue transmission patterns. By leveraging time-series modelling techniques, the project aims to provide insights that may support public health planning and early intervention efforts.
 
+---
+
 ## Problem Statement
 
 How can climate variables be used to predict future dengue outbreaks in Singapore?
@@ -218,8 +220,8 @@ This suggests that incorporating multiple weather variables provides a substanti
 
 ### ARIMA Forecast
 
-**<img width="341" height="439" alt="image" src="https://github.com/user-attachments/assets/6ec7c680-c35d-4f64-9ca4-82309aacd280" />
-**
+<img width="341" height="439" alt="image" src="https://github.com/user-attachments/assets/6ec7c680-c35d-4f64-9ca4-82309aacd280" />
+
 
 The "number" column represents the number of dengue cases predicted for the next few years for ARIMA and VAR model.									
 
