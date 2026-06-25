@@ -211,6 +211,8 @@ The VAR model significantly outperformed ARIMA across both evaluation metrics.
 
 This suggests that incorporating multiple weather variables provides a substantial advantage when modelling dengue transmission patterns.
 
+<img width="707" height="179" alt="image" src="https://github.com/user-attachments/assets/40493d77-2c9d-4129-ab9a-ec908b42e984" />
+
 ## Prediction Results
 
 ### VAR Forecast
